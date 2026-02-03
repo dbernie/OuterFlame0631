@@ -19,6 +19,14 @@ Olá!! Me chamo Kauan Diogo, tenho 20 anos e sou natural de Pernambuco. Atualmen
             src="https://custom-icon-badges.demolab.com/github/followers/OuterFlame0631?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+        </a>
+        <a href="https://www.linkedin.com/in/diogomk">
+        <img 
+            alt="Linkedin" 
+            title="Me siga no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"
+        />
+    </a>
 </p>
 
 ---
