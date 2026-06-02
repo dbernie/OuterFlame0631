@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Kauan Diogo
+# 👩🏻‍💻 Diogo Mendes
 
 **`Desenvolvedor Back-End`**
 
-Olá!! Me chamo Kauan Diogo, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Ciência da computação, pois desde novo sou fascinado por tecnologia e suas aplicações nos mais diversos âmbitos. Estou criando este github para dar sequência a postagens de meus projetos pessoais e trabalhos da faculdade. 
+Olá!! Me chamo Diogo, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Ciência da computação, pois desde novo sou fascinado por tecnologia e suas aplicações nos mais diversos âmbitos. Estou criando este github para dar sequência a postagens de meus projetos pessoais e trabalhos da faculdade. 
 
 <p align="left">
     <a href="https://github.com/OuterFlame0631?tab=repositories&sort=stargazers">
